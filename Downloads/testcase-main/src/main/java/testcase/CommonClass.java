@@ -45,7 +45,7 @@ public class CommonClass {
 
 	}
 
-	
+	//adding teardown comments
 	@AfterMethod
 	public void postConditon() {
 		driver.close();
